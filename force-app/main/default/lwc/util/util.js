@@ -10,7 +10,7 @@
 import { ShowToastEvent } from "lightning/platformShowToastEvent";
 import unknownErrorLabel from "@salesforce/label/c.Util_Unknown_Error";
 import errorLabel from "@salesforce/label/c.Util_Error";
-import ISCLIENT_FIELD from "@salesforce/schema/Contact.IsClient__c";
+import ISCLIENT_FIELD from "@salesforce/schema/Contact.pmdm__IsClient__c";
 
 /**
  * Returns if value is a string literal or String instance
